@@ -1,0 +1,17 @@
+{
+  "name": "APEX COACH",
+  "short_name": "APEX",
+  "description": "Застосунок вправ для тренера карате",
+  "start_url": "./apex-coach.html",
+  "display": "standalone",
+  "background_color": "#F0EDE8",
+  "theme_color": "#F0EDE8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'><rect width='192' height='192' fill='%23F0EDE8'/><text x='96' y='130' font-size='100' text-anchor='middle' fill='%23111111' font-family='Helvetica Neue' font-weight='900'>A</text></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
